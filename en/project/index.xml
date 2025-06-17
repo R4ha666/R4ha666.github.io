@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Rahman Kurbanov</title>
+    <link>https://R4ha666.github.io/en/project/</link>
+      <atom:link href="https://R4ha666.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://R4ha666.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://R4ha666.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic</title>
+      <link>https://R4ha666.github.io/en/project/hugo/</link>
+      <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://R4ha666.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;-personal-academic-website-with-hugo-academic&#34;&gt;🌐 Personal Academic Website with Hugo Academic&lt;/h1&gt;
+&lt;p&gt;In the digital age, a personal website is more than just a business card — it’s a full-fledged platform for promoting your research, publishing results, running a blog, and connecting with colleagues worldwide. One of the most convenient tools for this is &lt;strong&gt;Hugo Academic&lt;/strong&gt; (now part of &lt;a href=&#34;https://themes.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Themes&lt;/a&gt;).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-should-a-researcher-have-a-personal-website&#34;&gt;❓ Why Should a Researcher Have a Personal Website?&lt;/h2&gt;
+&lt;h3 id=&#34;-visibility-and-recognition&#34;&gt;📢 Visibility and Recognition&lt;/h3&gt;
+&lt;p&gt;A website helps you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Present yourself as a researcher and educator&lt;/li&gt;
+&lt;li&gt;Publish a list of papers, projects, and lectures&lt;/li&gt;
+&lt;li&gt;Share your portfolio in grant and fellowship applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-academic-networking-and-collaboration&#34;&gt;🤝 Academic Networking and Collaboration&lt;/h3&gt;
+&lt;p&gt;An open profile makes it easier for colleagues to find you and stay in touch with the academic community.&lt;/p&gt;
+&lt;h3 id=&#34;-supporting-students-and-colleagues&#34;&gt;🧑‍🏫 Supporting Students and Colleagues&lt;/h3&gt;
+&lt;p&gt;The website serves as a convenient hub for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Presentations and course materials&lt;/li&gt;
+&lt;li&gt;Thesis topics and research opportunities&lt;/li&gt;
+&lt;li&gt;Contact information and office hours&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-hugo-academic&#34;&gt;⚙️ Why Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; is a theme for the static site generator &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, specifically designed for researchers, faculty, and graduate students.&lt;/p&gt;
+&lt;h3 id=&#34;key-benefits&#34;&gt;Key Benefits:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Free and open source&lt;/li&gt;
+&lt;li&gt;Fast and easy to configure&lt;/li&gt;
+&lt;li&gt;Supports publications, projects, teaching, events, blog posts&lt;/li&gt;
+&lt;li&gt;Automatically generates pages from templates&lt;/li&gt;
+&lt;li&gt;Simple deployment on GitHub Pages, Netlify, etc.&lt;/li&gt;
+&lt;li&gt;Responsive design and professional appearance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-can-you-include-on-the-site&#34;&gt;🛠 What Can You Include on the Site?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👤 Biography and research interests&lt;/li&gt;
+&lt;li&gt;📄 List of publications (manual entry or BibTeX import)&lt;/li&gt;
+&lt;li&gt;🧪 Research projects and teaching materials&lt;/li&gt;
+&lt;li&gt;📅 Lectures, seminars, and events&lt;/li&gt;
+&lt;li&gt;📝 Blog or research notes&lt;/li&gt;
+&lt;li&gt;🔗 Links to ORCID, Google Scholar, GitHub, and other profiles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-get-started&#34;&gt;🚀 How to Get Started?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Install Hugo and clone the Academic theme&lt;/li&gt;
+&lt;li&gt;Edit the &lt;code&gt;config/_default&lt;/code&gt; files and the &lt;code&gt;content/&lt;/code&gt; folder&lt;/li&gt;
+&lt;li&gt;Add your personal info, publications, interests, and more&lt;/li&gt;
+&lt;li&gt;Test locally and deploy to Netlify or GitHub Pages&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The site is fully generated locally — no server required. You work entirely with Markdown and YAML files.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;📌 Conclusion&lt;/h2&gt;
+&lt;p&gt;Building a personal academic website with Hugo Academic is a powerful way to gather all aspects of your scholarly life in one place. It’s modern, efficient, and enhances your academic visibility.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

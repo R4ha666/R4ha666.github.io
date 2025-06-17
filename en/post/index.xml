@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Rahman Kurbanov</title>
+    <link>https://R4ha666.github.io/en/post/</link>
+      <atom:link href="https://R4ha666.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://R4ha666.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://R4ha666.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Study Week — June 10</title>
+      <link>https://R4ha666.github.io/en/post/04/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://R4ha666.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-4-june-1015&#34;&gt;📚 Week 4 (June 10–15)&lt;/h2&gt;
+&lt;p&gt;The most important event this week was the &lt;strong&gt;mathematical logic exam&lt;/strong&gt;. I got a ticket with tasks on normal forms and logical derivations. Solved it confidently — not a single lecture note went to waste!&lt;/p&gt;
+&lt;p&gt;In parallel, I’ve been actively revising &lt;strong&gt;programming&lt;/strong&gt;: sorting algorithms, data structures, and the basics of OOP. Preparing for the final exam by writing cheat sheets and practicing with old test problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week — June 3</title>
+      <link>https://R4ha666.github.io/en/post/03/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://R4ha666.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-3-june-38&#34;&gt;📚 Week 3 (June 3–8)&lt;/h2&gt;
+&lt;p&gt;Final sessions in &lt;strong&gt;mathematical analysis&lt;/strong&gt; — we discussed integrals and properties of antiderivatives. We had a test covering both definite integrals and theorem proofs.&lt;/p&gt;
+&lt;p&gt;Exam prep in &lt;strong&gt;logic&lt;/strong&gt; has also started — we’re going through past-year problems, especially those involving deductive reasoning. In the evenings, I rewatch lectures — it helps organize the material in my head.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week — May 27</title>
+      <link>https://R4ha666.github.io/en/post/02/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://R4ha666.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-2-may-27--june-1&#34;&gt;📚 Week 2 (May 27 – June 1)&lt;/h2&gt;
+&lt;p&gt;The week started with a &lt;strong&gt;mathematical logic lab&lt;/strong&gt;. We solved problems involving truth tables and tautology proofs. We&amp;rsquo;re learning the resolution method — it&amp;rsquo;s tricky but very engaging.&lt;/p&gt;
+&lt;p&gt;We also had a &lt;strong&gt;programming test&lt;/strong&gt;: we wrote a simple console game in C++ using arrays and functions. I got a high score, although I got a bit confused with the logic conditions — but I’ve learned from it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Week — May 20</title>
+      <link>https://R4ha666.github.io/en/post/01/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://R4ha666.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-1-may-2025&#34;&gt;📚 Week 1 (May 20–25)&lt;/h2&gt;
+&lt;p&gt;During our &lt;strong&gt;programming&lt;/strong&gt; classes, we started exploring recursion and its applications in problem solving. I especially enjoyed the topic of tree traversal and calculating factorials — it really helped me understand how recursion works &amp;ldquo;under the hood&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;In addition, we began active preparation for the &lt;strong&gt;mathematical analysis exam&lt;/strong&gt;. I’m reviewing topics like limits, continuity, and derivatives. It&amp;rsquo;s still challenging, but feels more intuitive now compared to the beginning of the semester.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
